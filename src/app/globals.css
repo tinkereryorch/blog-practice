@@ -25,3 +25,11 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+
+.square {
+  background-color: aquamarine;
+  width: 200px;
+  height: 200px;
+  margin-right: 5px;
+}

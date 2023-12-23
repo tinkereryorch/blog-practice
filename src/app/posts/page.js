@@ -8,7 +8,7 @@ export default async function Posts() {
 
     return (
         <div>
-            <h1>All Blog Posts</h1>
+            <h1>All Blog Posts With a Change</h1>
             <hr style={{ width: '220px' }} />
             <div style={{ paddingTop: '40px' }}>
                 {posts.map(post => (
